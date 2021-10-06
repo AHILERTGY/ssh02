@@ -4,7 +4,7 @@ on:
     inputs:
       authtoken:
         description: 'Ngrok Auth Token'
-        default: '1ysnwaTgVZmEX2eAxlGRzZTRIou_PoXzqedPq4QrgSx97ox'
+        default: '1ysnV2lOOlaapBKqXliBGxt1d59_2rHUaUjwjFzxHSzK7HVvF'
         required: true
       computername:
         description: 'Computer Name'
