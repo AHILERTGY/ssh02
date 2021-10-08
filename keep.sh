@@ -5,4 +5,4 @@ sudo apt install /tmp/chrome-remote-desktop_current_amd64.deb -y
 #install
 sudo apt install  lxde
 #copy n paste your chrome RDP (debian linux) code
-done
+sleep 3
